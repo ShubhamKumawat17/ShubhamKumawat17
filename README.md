@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Shubham Kumawat
 
 🎓 **3rd Year Engineering Student**
-🧠 **DSA Enthusiast** | 🤖 **AI & ML Curious** | ☕ **Java Learner**
+🧠 **DSA Enthusiast** 
+🤖 **AI & ML Curious**  
+☕ **Java Learner**
 
 ---
 
